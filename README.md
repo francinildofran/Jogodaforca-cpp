@@ -7,4 +7,4 @@ Há uma pequena alteração no código, como no exemplo abaixo:
 | :-------------- | :---------------|
 | system("reset");| system("cls");  |
 
-essa auteração é necessária para o código funcione corretamente no sistema operacional em questão.
+essa alteração é necessária para que o código funcione corretamente no sistema operacional em questão.

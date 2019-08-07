@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1556674833 source:/home/francinildo/Desenvolvimento/Projetos c++/eXcriptprojetos/Jogodaforca2.0/main.cpp
+	<iostream>
+
+1565125708 source:c:\users\francinildo\documents\jogodaforca2.0\main.cpp
+	<iostream>
+	<cstdlib>
+

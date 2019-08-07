@@ -1,5 +1,7 @@
 # Jogodaforca-em-c++
-Duas versões de um simples jogo da forca criado em c++, sendo cada uma das duas com uma variação de desenvolvimento para windows e linux
+## Código criado e compilado no code::blocks
+
+Duas versões de um simples jogo da forca criado em c++, sendo cada uma das duas com uma pequena variação de código para windows e linux
 
 Há uma pequena alteração no código, como no exemplo abaixo:
 
